@@ -36,6 +36,7 @@ The project is divided into two major components:
     Visualization of confusion matrix and decision regions
 
 📌 Key Results
+    
     Risk R6 (Capital Investment) had the highest estimated cost at 90% confidence: $9,311
   
     Monte Carlo simulations reinforced the reliability of cost estimates with near-normal distributions
@@ -43,6 +44,7 @@ The project is divided into two major components:
     The classification model accurately predicted risk categories using impact and likelihood scores, aiding prioritization
   
 📉 Tools & Libraries
+    
     Python 3.x
     
     NumPy, Pandas
@@ -54,6 +56,7 @@ The project is divided into two major components:
     Altair (for optional interactive visualization)
 
 📈 Use Case
+    
     This risk analysis framework can be adapted for other retail chains, franchises, or enterprises aiming to:
     
     Prioritize strategic risks
